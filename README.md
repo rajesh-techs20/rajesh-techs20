@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **JavaScript & DSA**
 - 💻 Skills: **HTML, CSS, JavaScript, C, Python**
 - 🚀 Beginner but improving every day
-- 🎯 Goal: Become a Software Developer
+- 🎯 Goal: Build my own projects
 
 ---
 
@@ -48,7 +48,7 @@
 
 - 📧 Email: rgr98624@gmail.com
 - 📸 Instagram: https://www.instagram.com/rajesh_g_r_?igsh=dnhzM2VtaW1iM3Np
-- 🔗 https://www.linkedin.com/in/rajesh-g-r-a8b377384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- 🔗 Linkedin: https://www.linkedin.com/in/rajesh-g-r-a8b377384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 ---
 
