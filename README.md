@@ -2,7 +2,7 @@
 <h3 align="center">Beginner Frontend Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Consistency+%3E+Motivation;Frontend+Learner;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Consistency+%3E+Motivation;Frontend+Learner;Build+my+own+projects" />
 </p>
 
 ---
