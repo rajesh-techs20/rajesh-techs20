@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer and ML Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Consistency+%3E+Motivation;ML+Enthusiast;Build+my+own+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Consistency+%3E+Motivation;Web+Developer;ML+Enthusiast;Build+my+own+projects" />
 </p>
 
 ---
