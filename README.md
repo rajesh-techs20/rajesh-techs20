@@ -29,7 +29,7 @@
  
 
 <p align="center">
-  <img width="48% src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-techs20&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-techs20&theme=radical" />
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-techs20&layout=compact&theme=radical"/></p>
 
 ---
