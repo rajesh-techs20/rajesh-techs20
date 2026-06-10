@@ -31,6 +31,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-techs20&theme=radical" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-techs20&layout=compact&theme=radical"/></p>p>
 
 ---
 
