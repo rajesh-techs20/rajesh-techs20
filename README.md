@@ -51,9 +51,9 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajesh-techs20&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-techs20&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=rajesh-techs20&theme=tokyonight"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@ Using NumPy and Pandas for data exploration.
 
 ## 📊 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rajesh-techs20/rajesh-techs20/output/github-contribution-grid-snake.svg)
 
 ---
 
