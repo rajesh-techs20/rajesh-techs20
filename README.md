@@ -22,7 +22,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,vscode,git,github,numpy" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,vscode,git,github,numpy,pandas,streamlit" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ Using NumPy and Pandas for data exploration.
 
 ## 💻 Coding Profiles
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/rajesh-techs20
 - LeetCode: Add your profile link
 - LinkedIn: Add your profile link
 
