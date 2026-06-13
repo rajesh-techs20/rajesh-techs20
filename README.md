@@ -15,7 +15,7 @@
 - 🐍 Passionate about Python Programming
 - 💡 Interested in AI, ML, and Software Development
 - 🚀 Love building projects and learning new technologies
-- 🎯 Goal: Become a Software Engineer and contribute to impactful products
+  
 
 ---
 
