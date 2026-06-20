@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajesh G R</h1>
+<h1 align="center">Hi👋, I'm Rajesh G R</h1>
 <h3 align="center">🚀 First-Year Engineering Student | Intern at Squarcell Resources India Pvt. Ltd. | Python Developer | Front-End Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
