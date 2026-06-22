@@ -22,7 +22,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,vscode,git,github,numpy,pandas,streamlit,java" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,vscode,git,github,numpy,pandas,streamlit," />
 </p>
 
 ---
