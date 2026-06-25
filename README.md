@@ -10,8 +10,7 @@
 - Front-End Development
 - Python Programming
 - Embedded Systems
-- Digital Electronics
-- ECE Software Projects
+- AI/ML
 
 ---
 
