@@ -2,7 +2,7 @@
 <h3 align="center">🚀 First-Year Engineering Student | Python Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Frontend+Learner;DSA+Practitioner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Frontend+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -35,6 +35,7 @@
 - JavaScript
 - DSA in Python
 - Frontend Development
+- C++
 
 ---
 
@@ -53,7 +54,7 @@
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajesh-techs20&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username= rajesh-techs20&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-techs20&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -61,7 +62,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user= rajesh-techs20&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=rajesh-techs20&theme=tokyonight"/>
 </p>
 
 ---
