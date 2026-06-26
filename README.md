@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 GitHub Stats
+ ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajesh-techs20&show_icons=true&theme=tokyonight" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 📈 Most Used Languages
+ ## 📈 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-techs20&layout=compact&theme=tokyonight" />
