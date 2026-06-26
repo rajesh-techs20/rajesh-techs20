@@ -43,7 +43,6 @@
 
 - 🤖 Building Machine Learning Projects
 - 📊 Exploring Data Analysis
-- 🧩 Solving DSA Problems Daily
 - 🌐 Improving Frontend Skills
 - 🚀 Creating Real-World Applications
 
@@ -69,7 +68,6 @@
 
 ## 🏆 Achievements
 
-- ✅ Consistently practicing DSA
 - ✅ Building personal projects
 - ✅ Exploring Machine Learning
 - ✅ Maintaining GitHub repositories
@@ -78,8 +76,6 @@
 
 ## 📂 Featured Projects
 
-### 🧩 DSA Repository
-Collection of DSA problems solved using Python.
 
 ### 🤖 Machine Learning Projects
 Hands-on ML projects and experiments.
