@@ -91,7 +91,7 @@ Using NumPy and Pandas for data exploration.
 ## 💻 Coding Profiles
 
 - GitHub: https://github.com/rajesh-techs20
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/rajesh-g-r-a8b377384 
 
 ---
 
